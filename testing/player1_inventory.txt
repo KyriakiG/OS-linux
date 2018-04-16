@@ -1,0 +1,2 @@
+gold	5
+ammo	1

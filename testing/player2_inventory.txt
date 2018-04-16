@@ -1,0 +1,4 @@
+gold	1
+rock	3
+lumber	1
+magic	2
